@@ -1,7 +1,7 @@
 #Voltera measuring board
-
-is based on the IViny Compact Data Acquisition Device
 =====
+is based on the IViny Compact Data Acquisition Device
+
 
 ![alt iviny](https://raw.githubusercontent.com/ivmech/iviny/master/images/hardware/01.png)
 
